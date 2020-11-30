@@ -16,36 +16,36 @@ With the many roles small business owners and even everyday managers take on, it
 
 Program can be executed here: https://repl.it/@DigitalRipple/RedCoffee-V2#Main.java
 
-# Usernames and Passwords
+# Usernames and Passwords (Use without commas.)
 
-John
+John,
 1002
 
-Admin
+Admin,
 2939
 
-Game
+Game,
 2263
 
-Alice
+Alice,
 2004
 
-Jelly
+Jelly,
 3822
 
-josh
+josh,
 3992
 
-jean
+jean,
 3443
 
-krush
+krush,
 3942
 
-eggs
+eggs,
 3004
 
-Judges
+Judges,
 QED
 
 # Citations
